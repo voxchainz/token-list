@@ -25622,6 +25622,23 @@
         "twitter": "https://twitter.com/SolPayDeFi",
         "website": "https://solpay.finance"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "HPcpwJ5arSHjJDYGmJQYCuHKDfWLqjdmRrb6bhadRkxG",
+      "symbol": "ILB",
+      "name": "ILearnBLock",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/marvy-codes/ILB-TOKEN/ilb.jpg",
+      "tags": [
+        "utility-token",
+        "value-token",
+        "community-token"
+      ],
+      "extensions": {
+        "instagram": "https://instagram.com/ilearnblock",
+        "twitter": "https://twitter.com/ilearnblock"
+      }
     }
   ],
   "version": {
