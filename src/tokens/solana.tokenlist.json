@@ -25604,6 +25604,24 @@
         "twitter": "https://twitter.com/MyCrypto_City",
         "website": "https://mycryptocity.net/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn",
+      "symbol": "SOLPAY",
+      "name": "SOLPAY",
+      "decimals": 9,
+      "logoURI": "https://github.com/solana-labs/token-list/blob/main/assets/mainnet/zwqe1Nd4eiWyCcqdo4FgCq7LYZHdSeGKKudv6RwiAEn/logo.png",
+      "tags": [
+        "DeFi",
+        "technology",
+        "utility-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/solpayfinance",
+        "twitter": "https://twitter.com/SolPayDeFi",
+        "website": "https://solpay.finance"
+      }
     }
   ],
   "version": {
