@@ -25590,6 +25590,20 @@
       "name": "Fex",
       "decimals": 2,
       "logoURI": "https://www.linkpicture.com/q/fex.png"
+    },
+    {
+      "chainId": 101,
+      "address": "9yqPadcWQQ4BnuEbEZci1M5pTQYV8LX1HvckYwXoACdL",
+      "symbol": "MYCTY",
+      "name": "MyCryptoCity",
+      "decimals": 6,
+      "logoURI": "http://mycryptocity.net/wp-content/uploads/2021/10/cropped-HDLog2.png",
+      "extensions": {
+        "medium": "https://medium.com/@MyCryptoCity",
+        "telegram": "https://t.me/mycryptocity",
+        "twitter": "https://twitter.com/MyCrypto_City",
+        "website": "https://mycryptocity.net/"
+      }
     }
   ],
   "version": {
