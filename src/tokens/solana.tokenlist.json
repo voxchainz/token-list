@@ -25552,6 +25552,22 @@
         "meme-token",
         "community-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EN1VhM7BmuqAuUDGDDnzXZdefaFpvNHFCAwjXzp6gRhJ",
+      "symbol": "BONER",
+      "name": "BONER",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EN1VhM7BmuqAuUDGDDnzXZdefaFpvNHFCAwjXzp6gRhJ/logo.png",
+      "tags": [
+        "utility-token",
+        "nft-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/BareBonesNFT",
+        "website": "https://www.barebonesnft.com/"
+      }
     }
   ],
   "version": {
