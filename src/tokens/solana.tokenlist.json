@@ -25540,6 +25540,18 @@
         "twitter": "https://twitter.com/crypunks",
         "website": "https://crypunks.com/"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "5Ne8szYZGGcXByFQA4zNBqJaWNdeTcJYAf2ZDLFfjVdA",
+      "symbol": "TIGER",
+      "name": "Tiger Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/5Ne8szYZGGcXByFQA4zNBqJaWNdeTcJYAf2ZDLFfjVdA/logo.png",
+      "tags": [
+        "meme-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
