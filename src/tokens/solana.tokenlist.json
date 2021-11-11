@@ -25171,6 +25171,20 @@
       "extensions": {
         "website": "https://twitter.com/rajgokal/status/1457750326212235273"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "AcgJKkqKgoeDQY82pSTFzaJE4dy82kXnoAkg4aNhN2a9",
+      "symbol": "vPARKS",
+      "name": "vPARK Solana",
+      "decimals": 4,
+      "logoURI": "https://ibb.co/vwv63CC",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://twitter.com/GMCoiners"
+      }
     }
   ],
   "version": {
