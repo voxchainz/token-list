@@ -25110,6 +25110,18 @@
       "extensions": {
         "website": "http://arts.digital"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "Cs3ywW9tRrsbkGLqiYPaZ4wPXecEB1vNfnnAR6pbmfBm",
+      "symbol": "DOGQ",
+      "name": "Dog Queen",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/Namblckchain/token-list/main/assets/mainnet/Cs3ywW9tRrsbkGLqiYPaZ4wPXecEB1vNfnnAR6pbmfBm/logo.png",
+      "tags": [
+        "meme-token",
+        "community-token"
+      ]
     }
   ],
   "version": {
