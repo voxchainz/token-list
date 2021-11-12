@@ -25134,6 +25134,29 @@
         "meme-token",
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EtEKBLqLfPcm8mXn5JdzY9rMghHnTMxpWwsdASasAMNa",
+      "symbol": "NFD",
+      "name": "NFD (Wormhole)",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EtEKBLqLfPcm8mXn5JdzY9rMghHnTMxpWwsdASasAMNa/logo.png",
+      "tags": [
+        "community-token",
+        "meme-token",
+        "NFTs",
+        "fractionalized-nft",
+        "wrapped",
+        "wormhole"
+      ],
+      "extensions": {
+        "medium": "https://medium.com/@feistydogenfd",
+        "reddit": "https://www.reddit.com/r/nfd/",
+        "telegram": "https://t.me/feistydoge",
+        "twitter": "https://twitter.com/FeistyDogeNFD",
+        "website": "https://feistydoge.art/"
+      }
     }
   ],
   "version": {
