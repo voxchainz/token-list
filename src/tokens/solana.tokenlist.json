@@ -24845,6 +24845,17 @@
         "twitter": "https://twitter.com/BiLira_Official",
         "website": "http://bilira.co"
       }
+    },
+    {
+      "chainId": 103,
+      "address": "C6CTTSQALChg3k3VY5iBAhvFuqqvqbaehVdZXaqcyiz",
+      "symbol": "DXDGM",
+      "name": "DEXGM",
+      "decimals": 0,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmQiNfkoXXHtnuWL1rmuRTfQ92RVypGsvjKs4WGsaT61yt",
+      "tags": [
+        "DXDGM"
+      ]
     }
   ],
   "version": {
