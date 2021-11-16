@@ -19,3 +19,21 @@ At minimum each entry should have
 - Logo: (logo should be uploaded under assets/mainnet/<mint address>/\*.<png/svg>)
 - Link to the official homepage of token:
 - Coingecko ID if available (https://www.coingecko.com/api/documentations/v3#/coins/get_coins__id_):
+
+## Automerge requirements
+
+Your pull request will be automatically merged if the following conditions are met:
+
+- Your pull request **only adds new tokens** to the list. Any modification to existing
+  tokens will require manual review to prevent unwanted modifications.
+
+- Any **asset files added correspond to the token address** you are adding. Asset files
+  must be PNG, JPG or SVG files.
+
+- Your change is **valid JSON** and **conforms to the schema**. If your change failed validation,
+  read the error message carefully and update your PR accordingly.
+
+- No other tokens shares the **same name, symbol or address**.
+
+The automerger runs **every 30 minutes** and bulk-merges all open pull requests to prevent conflicts.
+This means that you need to wait up to 30 minutes for your pull request to be merged or reprocessed.
