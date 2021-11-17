@@ -25032,6 +25032,27 @@
     },
     {
       "chainId": 101,
+      "address": "6hgWhbdYCDD8p8yWJCpEQp6NJnsYBgAQNhuUWWkHFj5U",
+      "symbol": "ASS",
+      "name": "ASSCOIN",
+      "decimals": 6,
+      "logoURI": "https://i.imgur.com/86oJb9g.png",
+      "tags": [
+        "ass",
+        "meme",
+        "sexy",
+        "nft",
+        "tits",
+        "dick",
+        "cum"
+      ],
+      "extensions": {
+        "website": "https://asscoin.io",
+        "twitter": "https://twitter.com/SolAssCoin",
+      }
+    },
+    {
+      "chainId": 101,
       "address": "3oLpKntC8W9AxiFhafRGBeALGuKdimduUXVPo1GQNHuX",
       "symbol": "Otter",
       "name": "Ottercoin",
